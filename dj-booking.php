@@ -1,0 +1,1 @@
+<!DOCTYPE html>\n<html lang="en">\n<head>\n    <meta charset="UTF-8">\n    <meta name="viewport" content="width=device-width, initial-scale=1.0">\n    <title>DJ Booking System</title>\n</head>\n<body>\n    <h1>Welcome to the DJ Booking System</h1>\n    <p>Current Date and Time (UTC): 2026-03-02 10:28:48</p>\n    <p>Current User's Login: Omoola94</p>\n</body>\n</html>
